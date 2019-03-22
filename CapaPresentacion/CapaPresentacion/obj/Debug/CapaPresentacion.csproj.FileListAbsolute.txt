@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
